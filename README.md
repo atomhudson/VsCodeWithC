@@ -28,16 +28,12 @@ To run the C programs in this repository, you will need:
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/c-programming-practice.git
+    git clone https://github.com/atomhudson/VsCodeWithC
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd c-programming-practice
-    ```
-3. Compile and run the C programs:
+2. Compile and run the C programs:
     ```bash
     gcc program_name.c -o program_name
-    ./program_name
+    ./program_name.exe
     ```
 
 ## Structure

@@ -60,6 +60,7 @@
   "files.associations": {
     "*.embeddedhtml": "html",
     "*.tex": "latex",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "ostream": "cpp"
   }
 }
